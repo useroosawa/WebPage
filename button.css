@@ -1,0 +1,59 @@
+body{
+    border: 2px solid;
+    border-color: #CCCCCC;
+}
+
+.btn{
+    style.border: solid 3px #FF9933;
+    /*相対配置*/
+    position: relative;
+}
+
+.title{
+    border: solid 1px;
+    padding: 0px 0px 0px 10px;
+    background-color: #3399FF;
+    color: white;
+    position: relative;
+}
+#linked{
+    padding: 0px 0px 0px 1000px;
+}
+#git{
+    padding: 0px 0px 0px 50px;
+}
+#img{
+    width: 1259px;
+    height: 500px;
+
+}
+#linklogo{
+    position:absolute;
+    padding: 5px 0px 0px 983px;
+    width:15px;
+    height:15px;
+}
+#gitlogo{
+    position:absolute;
+    padding: 5px 0px 0px 30px;
+    width:15px;
+    height:15px;
+}
+.pic {
+    width: 290px;
+    height: 108px;
+    padding: 5px 0 0 5px;
+}
+
+
+/*#work{
+    color: white;
+    position: absolute;
+    top: 50px;
+    left:0;
+    padding: 10px 50px 40px 50px;
+    margin-top: 40px;
+    border: solid 1px;
+    border-color: #339966;
+    background-color: #339966;
+}*/
